@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-server/
+data/
+.env*
+!.env.example
+AGENTS.md
+LOCAL-MEMORY.md
+PROJECT-LOG.md
+*.log
+test-results/
